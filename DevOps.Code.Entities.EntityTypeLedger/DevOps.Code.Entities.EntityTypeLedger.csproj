@@ -15,11 +15,11 @@
     <PackageLicenseUrl>https://github.com/cdorst/DevOps.Code.Entities.EntityTypeLedger/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/cdorst/DevOps.Code.Entities.EntityTypeLedger</PackageProjectUrl>
     <RepositoryUrl>https://github.com/cdorst/DevOps.Code.Entities.EntityTypeLedger</RepositoryUrl>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="CDorst.Azure.Storage.Metapackage" Version="1.0.2" />
+    <PackageReference Include="CDorst.Azure.Storage.Metapackage" Version="1.0.3" />
   </ItemGroup>
 
 </Project>
