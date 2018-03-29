@@ -16,7 +16,7 @@ namespace DevOps.Code.Entities.EntityTypeLedger
         {
             EntityTypeId = entityTypeId;
             PartitionKey = accountName;
-            RowKey = repositoryName;;
+            RowKey = repositoryName;
         }
 
         /// <summary>Entity type unique identifier</summary>
